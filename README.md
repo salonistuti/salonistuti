@@ -1,7 +1,7 @@
 <h2 align="left">Hello Amazing Humans, I'm Saloni Stuti, crafting code with a dash of quirk🤞</h2>
 
 ###
-
+<br clear="both">
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
