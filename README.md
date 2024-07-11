@@ -6,7 +6,7 @@
 
 ###
 
-<h4 align="left">I am a third-year undergraduate student pursuing a B.Tech in Computer Science at Indira Gandhi Delhi Technical University for Women. I thrive in collaborative environments, where I have honed my teamwork and leadership skills through active participation in hackathons, ideathons, and various communities. With a strong analytical approach and a relentless passion for innovation, I specialize in frontend development, cloud computing, and database management.</h4>
+<h4 align="left">I am a final-year undergraduate student pursuing a B.Tech in Computer Science at Indira Gandhi Delhi Technical University for Women. I thrive in collaborative environments, where I have honed my teamwork and leadership skills through active participation in hackathons, ideathons, and various communities. With a strong analytical approach and a relentless passion for innovation, I specialize in frontend development, cloud computing, and database management.</h4>
 
 ###
 
