@@ -1,12 +1,12 @@
-<h2 align="left">Hello Amazing Humans, I'm Saloni Stuti, crafting code with a dash of quirk🤞</h2>
-
-###
-<br clear="both">
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<h2 align="left">Hi! I'm Saloni Stuti, crafting code with a dash of quirk🤞</h2>
 
 ###
 
 <h4 align="left">I am a final-year undergraduate student pursuing a B.Tech in Computer Science at Indira Gandhi Delhi Technical University for Women. I thrive in collaborative environments, where I have honed my teamwork and leadership skills through active participation in hackathons, ideathons, and various communities. With a strong analytical approach and a relentless passion for innovation, I specialize in frontend development, cloud computing, and database management.</h4>
+
+###
+<br clear="both">
+<img align="center" height="250" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
